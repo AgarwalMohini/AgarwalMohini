@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Software Developer & Final Year B.Tech CSE Student</h3>
 
 <p align="center">
+  <img src="https://your-custom-banner-link.com/banner.png" alt="Banner" width="100%" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF61F6&center=true&width=435&lines=I+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+am+Mohini+Agarwal;Software+Developer+%7C+Tech+Learner;Lover+of+Clean+Code+%26+UI+Designs" alt="Typing SVG" />
 </p>
 
@@ -55,5 +58,3 @@
 I love turning ideas into code and visuals into beautiful UIs ✨
 
 ---
-
-Let me know if you want to add a **photo of yourself** or any **custom banners**. Would you like me to generate one for your header section now?
