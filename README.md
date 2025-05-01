@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohini Agarwal</h1>
-<h3 align="center">A passionate Software Developer & Final Year B.Tech CSE Student</h3>
+<h3 align="center">A passionate Software Developer & Final Year B.Tech CS Student</h3>
 
-<p align="center">
-  <img src="https://your-custom-banner-link.com/banner.png" alt="Banner" width="100%" />
-</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF61F6&center=true&width=435&lines=I+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+am+Mohini+Agarwal;Software+Developer+%7C+Tech+Learner;Lover+of+Clean+Code+%26+UI+Designs" alt="Typing SVG" />
 </p>
@@ -15,6 +12,7 @@
 - 💻 Proficient in **Python**, **Java**, **C**, and front-end technologies  
 - 🌐 Built projects like **Portfolio Website**, **Travel Destination Finder**, and more  
 - 📚 Currently preparing for **networking certifications**
+- 🧠 I enjoy solving **Data Structures & Algorithms** problems regularly on LeetCode and Coding Ninjas
 
 ---
 
@@ -43,12 +41,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AgarwalMohini&theme=dracula" alt="activity graph"/>
-</p>
-
----
-
 > 💬 *“Code is like humor. When you have to explain it, it’s bad.”*  
 > — *Cory House*
 
@@ -56,5 +48,3 @@
 
 ### ⚡ Fun Fact:
 I love turning ideas into code and visuals into beautiful UIs ✨
-
----
