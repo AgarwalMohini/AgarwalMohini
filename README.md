@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Software Developer & Final Year B.Tech CS Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AgarwalMohini&label=Profile%20views&color=0e75b6&style=flat" alt="AgarwalMohini" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF61F6&center=true&width=435&lines=I+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+am+Mohini+Agarwal;Software+Developer+%7C+Tech+Learner;Lover+of+Clean+Code+%26+UI+Designs" alt="Typing SVG" />
 </p>
 
@@ -17,6 +13,10 @@
 - 🌐 Built projects like **Portfolio Website**, **Travel Destination Finder**, and more  
 - 📚 Currently preparing for **networking certifications**
 - 🧠 I enjoy solving **Data Structures & Algorithms** problems regularly on LeetCode and Coding Ninjas
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AgarwalMohini&label=Profile%20views&color=0e75b6&style=flat" alt="AgarwalMohini" />
+</p>
 
 ---
 
