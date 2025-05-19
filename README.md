@@ -13,7 +13,7 @@
 
 ### 👩‍💻 About Me:
 - 🎓 Final year Computer Science student at ABES Engineering College  
-- 💻 Proficient in **Python**, **Java**, **C**, and front-end technologies  
+- 💻 Proficient in **Python**, **Java**, and front-end technologies  
 - 🌐 Built projects like **Portfolio Website**, **Travel Destination Finder**, and more  
 - 📚 Currently preparing for **networking certifications**
 - 🧠 I enjoy solving **Data Structures & Algorithms** problems regularly on LeetCode and Coding Ninjas
