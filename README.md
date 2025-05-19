@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Software Developer & Final Year B.Tech CS Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF61F6&center=true&width=435&lines=I+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+am+Mohini+Agarwal;Software+Developer+%7C+Tech+Learner;Lover+of+Clean+Code+%26+UI+Designs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF61F6&center=true&width=435&lines=Hi%2C+I'm+Mohini+Agarwal;Software+Developer;Passionate+about+Tech+%26+Clean+Code;Always+Learning+%7C+Always+Improving" alt="Typing SVG" />
 </p>
+
 
 ---
 
