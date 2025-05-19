@@ -14,7 +14,7 @@
 - 📚 Currently preparing for **networking certifications**
 - 🧠 I enjoy solving **Data Structures & Algorithms** problems regularly on LeetCode and Coding Ninjas
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=AgarwalMohini&label=Profile%20views&color=0e75b6&style=flat" alt="AgarwalMohini" />
 </p>
 
